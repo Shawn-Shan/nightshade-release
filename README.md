@@ -31,7 +31,7 @@ Next, we add perturbation to the images given a target concept (e.g. "cat"). `py
 The goal of the code release is different from the Nightshade APP. This code base seeks to provide a reference, basic implementation for research experimentation whereas the APP is designed for people to nightshade their own images. As a result, there are two main differences. First, the Nightshade APP automatically extracts the source concept from a given image and selects a target concept for the image. This code base gives researchers the flexibility to select different poison target. Second, this code base uses Linf perturbation compared to LPIPS perturbation in the APP. Linf perturbation leads to more stable results but more visible perturbations.
 
 #### How do I test Nightshade?
-The easiest way to train the model is to use latent diffusion [source code] (https://github.com/CompVis/stable-diffusion). We do not recommend using the Dreambooth/LORA finetuning code as it is designed for small-scale finetuning rather than full model training.
+The easiest way to train the model is to use latent diffusion [source code](https://github.com/CompVis/stable-diffusion). We do not recommend using the Dreambooth/LORA finetuning code as it is designed for small-scale finetuning rather than full model training.
 
 ### Citation
 
