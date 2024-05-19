@@ -19,7 +19,7 @@ We first extract a desired set of clean image/text pairs as the starting point o
 
 **Data format:** To better store longer prompts, we use pickle files for image/text pairs. Each pickle file contains a numpy image (key "img") and its corresponding text prompt (key "text"). You can download some example data from [here](https://mirror.cs.uchicago.edu/fawkes/files/resources/example-data.zip).
 
-Next, run `data_extraction.py` to select a set of 100 poison candidates. `python3 data_extraction.py --directory data/ --source dog --num 100`
+Next, run `data_extraction.py` to select a set of 100 poison candidates. `python3 data_extraction.py --directory data/ --concept dog --num 100`
 
 #### Step 2: Poison Generation
 
