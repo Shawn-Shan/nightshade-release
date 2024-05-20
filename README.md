@@ -2,7 +2,7 @@
 
 This repo contains the research code release for Nightshade.
 
-:warning: If you plan to use Nightshade to protect your own copyrighted content, please use our MacOS/Windows prototype on our [webpage](https://nightshade.cs.uchicago.edu/downloads.html).
+:warning: If you plan to use Nightshade to protect your own copyrighted content, please use our MacOS/Windows prototype on our [webpage](https://nightshade.cs.uchicago.edu/downloads.html). For details on the differences, please checkout the FAQ below. 
 
 ### OVERVIEW
 
