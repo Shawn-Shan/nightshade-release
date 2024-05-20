@@ -46,3 +46,5 @@ The easiest way to train the model is to use latent diffusion [source code](http
   year={2024},
 }
 ```
+
+For any questions with the code, please email shawnshan@cs.uchicago.edu. 
